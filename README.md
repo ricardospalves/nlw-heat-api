@@ -1,5 +1,7 @@
 # NLW Heat - API
 
+Aplicação Node.js com TypeScript criada durante o NLW Heat da Rocketseat.
+
 * [Tecnologias](#-tecnologias)
 * [Como executar](#-como-executar)
 * [Licença](#-licença)
@@ -34,4 +36,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc).
